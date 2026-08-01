@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Java Full Stack Development<br>- Personal Portfolio Website<br><br><br>👯 I’m looking to collaborate on<br>- Open Source Projects<br>- Web Development<br>- Java and Python Projects<br><br>🤝 I’m looking for help with<br>- System Design<br>- Cloud Computing (AWS)<br>- Open Source Contributions<br><br>🌱 I’m currently learning<br>- Spring Boot<br>- React.js<br>- Data Structures & Algorithms<br>- AWS Cloud<br><br><br><br>⚡ Fun fact<br>- I enjoy solving coding challenges and learning new technologies every day.
+🔭 I’m currently working on Java Full Stack Development and building real-world projects to strengthen my software development skills. 🌱 I’m currently learning Spring Boot, React.js, AWS Cloud, and Data Structures & Algorithms. 👯 I’m looking to collaborate on open-source projects and innovative web applications, while 🤝 I’m looking for help with cloud deployment, system design, and building scalable, production-ready applications.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajaraman-V&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajaraman-V&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rajaraman-V&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Rajaraman-V&icon=0&color=0)](https://visitcount.itsvg.in)
